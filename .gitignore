@@ -1,0 +1,15 @@
+# Ignore generated data files
+/data/
+outputs/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore VS Code workspace files
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
